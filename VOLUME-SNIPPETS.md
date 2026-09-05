@@ -1,6 +1,6 @@
 # OpenRouter :free — volume snippets (Receita Alpha)
 
-_Atualizado 2026-09-05 20:49 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
+_Atualizado 2026-09-05 20:51 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
 
 Landing: https://ziuluiziul.github.io/openrouter-free-oferta/ · HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
 
@@ -20,7 +20,7 @@ Landing: https://ziuluiziul.github.io/openrouter-free-oferta/ · HUB: https://zi
 
 *   Teste modelos de IA premium de graça. Roteamento multi-modelo sem cartão, perfeito para validação rápida de ideias e MVPs.
 
-*   Integre various IAs em minutos. Ideal para prototipar e demonstrar funcionalidades sem custos iniciais, acelerando seu desenvolvimento.
+*   Integre várias IAs em minutos. Ideal para prototipar e demonstrar funcionalidades sem custos iniciais, acelerando seu desenvolvimento.
 
 ### `nvidia/nemotron-3.5-lightning:free`
 
