@@ -1,10 +1,15 @@
 # OpenRouter :free — volume snippets (Receita Alpha)
 
-_Atualizado 2026-09-05 16:46 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
+_Atualizado 2026-09-05 18:51 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
 
 Landing: https://ziuluiziul.github.io/openrouter-free-oferta/ · HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
 
 ## Demo copy (API live, max_tokens generoso, abort se cost>0)
+
+### `poolside/laguna-s-2.1:free` (rodada 18:50)
+
+- Teste modelos de ponta com o plano :free da OpenRouter, ideal para demos e MVPs, sem necessidade de cartão de crédito.
+- Acesse modelos como Llama, Mistral e outros diretamente na plataforma, sem custo inicial, para validar suas ideias rapidamente.
 
 ### `dots-studio/dots-3-note-preview:free`
 
@@ -22,4 +27,3 @@ Roteie entre os melhores modelos de linguagem para MVPs e demos, otimizando cust
 - OpenRouter roteia dezenas de modelos `:free` sem cartão — valide MVP antes de pagar.
 - Troque de modelo com o mesmo endpoint OpenAI-compatible; cota free-tier (docs: ~50 RPD se créditos <10).
 - Pacote Receita Alpha: landing + snippets + cheatsheet de roteamento.
-
