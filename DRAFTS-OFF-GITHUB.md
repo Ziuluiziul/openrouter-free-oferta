@@ -33,3 +33,7 @@ Tags: ai, api, openrouter, brazil
 OpenRouter :free smoke (cost 0) + PIX BRL.
 https://ziuluiziul.github.io/openrouter-free-oferta/
 HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
+
+## Alpha Dev.to live (cruzado 2026-09-05)
+- Groq: https://dev.to/ziul_941087d2c1f1edc7d824/groq-free-tier-cheatsheet-de-limites-failover-multi-modelo-pt-br-297j
+- Ollama: https://dev.to/ziul_941087d2c1f1edc7d824/ollama-cloud-free-concurrent1-sem-429-playbook-pix-3k8m
