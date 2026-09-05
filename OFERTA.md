@@ -36,3 +36,6 @@ QR + copia-cola PIX embutidos em `_public/openrouter/index.html` e no repo públ
 - Free / `:free` only; sem top-up; sem fraude; sem cold-DM.
 - Canal: autorização Luiz / Cumulunimbus.
 - Cada PIX → linha em `../ledger.md` com `qr_N` / `pix_copia_cola_N`.
+
+## HUB Alpha
+https://ziuluiziul.github.io/round1-cumulunimbus/
