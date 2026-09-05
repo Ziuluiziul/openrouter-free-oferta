@@ -1,10 +1,15 @@
 # OpenRouter :free — volume snippets (Receita Alpha)
 
-_Atualizado 2026-09-05 18:51 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
+_Atualizado 2026-09-05 20:49 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
 
 Landing: https://ziuluiziul.github.io/openrouter-free-oferta/ · HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
 
 ## Demo copy (API live, max_tokens generoso, abort se cost>0)
+
+### `minimax/minimax-m3:free` (rodada 20:48)
+
+- **Custo zero para começar**: OpenRouter oferece modelos gratuitos via API única, ideal para demos e MVPs sem cartão.
+- **Roteamento multi-modelo**: troque entre LLMs sem mudar código, acelerando validação e iteração.
 
 ### `poolside/laguna-s-2.1:free` (rodada 18:50)
 
