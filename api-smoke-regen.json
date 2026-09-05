@@ -1,0 +1,11 @@
+{
+  "when": "2026-09-05 20:23 -03",
+  "model": "dots-studio/dots-3-note-preview:free",
+  "http": 200,
+  "cost": 0,
+  "prompt_tokens": 62,
+  "completion_tokens": 259,
+  "total_tokens": 321,
+  "finish": "stop",
+  "content": "Claro, aqui estão:\n\n*   Use uma única API OpenRouter para acessar múltiplos modelos de IA.\n*   Teste gratuitamente com o modelo :free, sem necessidade de cartão, ideal para MVP.\n*   Troque entre modelos de IA diretamente pela API, sem precisar reescrever seu código."
+}
