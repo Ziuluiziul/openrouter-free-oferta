@@ -1,5 +1,5 @@
 # Cheat-sheet roteamento :free (amostra produto)
-Snapshot: 2026-09-05 11:43 -03 · 19 modelos
+Snapshot: 2026-09-05 12:52 -03 · 19 modelos
 
 Use `openrouter/free` ou IDs abaixo. Preferir quem devolve `content` não-nulo; 429 upstream = trocar ID.
 
@@ -24,6 +24,8 @@ Use `openrouter/free` ou IDs abaixo. Preferir quem devolve `content` não-nulo; 
 - `z-ai/glm-5.2:free` · ctx 256000
 
 ## Heurística prática
-- Smoke/copy curto: `inclusionai/ling-3.0-flash-sante:free` (provado cost 0 + content)
+- Smoke/copy curto: `inclusionai/ling-3.0-flash-sante:free` ou `google/gemma-4-26b-a4b-it:free` (ambos cost 0 + content)
+- `liquid/lfm-2.5-2.6b:free`: pode gastar `max_tokens` em reasoning e devolver `content` null — subir teto ou trocar ID
 - Evitar retries em loop em 429 (Poolside etc.) — queima RPD
-- Saldo negativo → risco 402 → chat web
+- Conta free com `total_credits=0` → banda docs ~20 RPM / 50 RPD; rotacionar 1–2 IDs por disparo
+- Saldo negativo / HTTP 402 → pivot chat web; sem top-up forçado
