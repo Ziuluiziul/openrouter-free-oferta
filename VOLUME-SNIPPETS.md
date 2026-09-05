@@ -1,60 +1,25 @@
-# Volume snippets (:free)
+# OpenRouter :free — volume snippets (Receita Alpha)
 
-## 2026-09-05 14:51 -03 · ling-3.0-flash-fin:free + north-mini-code:free (cost 0)
+_Atualizado 2026-09-05 16:46 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
 
-### inclusionai/ling-3.0-flash-fin:free
-- Roteie entre dezenas de modelos de IA gratuitamente, sem cartão de crédito, e encontre a melhor resposta para seu MVP.
-- OpenRouter roteia automaticamente as melhores rotas entre modelos, tudo grátis para validar sua ideia sem compromisso financeiro.
+Landing: https://ziuluiziul.github.io/openrouter-free-oferta/ · HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
 
-### cohere/north-mini-code:free
-- Usa a rota :free do OpenRouter para enviar requisições simultâneas a dois modelos, comparando respostas sem custo ou cadastro.
-- Configura o cliente com a mesma chave :free, testa os modelos lado a lado e registra as diferenças de desempenho.
+## Demo copy (API live, max_tokens generoso, abort se cost>0)
 
-Nota: `google/gemma-4-31b-it:free` nesta rodada → HTTP 429 (sem retry loop). Catálogo live: 19 `:free`.
+### `dots-studio/dots-3-note-preview:free`
 
-## 2026-09-05 12:52 -03 · gemma-4-26b-a4b-it:free (cost 0)
+*   Teste modelos de IA premium de graça. Roteamento multi-modelo sem cartão, perfeito para validação rápida de ideias e MVPs.
 
-- Acesse diversos modelos de IA via um único gateway, ideal para testar seu MVP sem precisar de cartão de crédito.
-- Integre múltiplos modelos de ponta rapidamente com o OpenRouter, utilizando modelos gratuitos para validar sua ideia sem custos iniciais.
+*   Integre various IAs em minutos. Ideal para prototipar e demonstrar funcionalidades sem custos iniciais, acelerando seu desenvolvimento.
 
-Nota: `liquid/lfm-2.5-2.6b:free` nesta rodada → content null (reasoning consumiu max_tokens).
+### `nvidia/nemotron-3.5-lightning:free`
 
-## 2026-09-05 11:49 -03
+Use múltiplos modelos de IA sem precisar de cartão de crédito, ideal para testes rápidos e protótipos.  
+Roteie entre os melhores modelos de linguagem para MVPs e demos, otimizando custos e desempenho em um só lugar.
 
-• Gateway grátis: acesso multi-modelo (GPT-4, Claude, Llama) numa só API, sem assinatura.
-• Testa e troca modelo por task sem lock-in — paga só uso, ideal pra validar MVP sem gastar.
+## Pitch rápido
 
-- Acesso gratuito a múltiplos modelos de IA, eliminando a necessidade de pagar licenças individuais.  
-- API única para integrar e trocar modelos rapidamente, economizando tempo e esforço no desenvolvimento.
+- OpenRouter roteia dezenas de modelos `:free` sem cartão — valide MVP antes de pagar.
+- Troque de modelo com o mesmo endpoint OpenAI-compatible; cota free-tier (docs: ~50 RPD se créditos <10).
+- Pacote Receita Alpha: landing + snippets + cheatsheet de roteamento.
 
-## labor 12:58 -03
-
-### poolside/laguna-s-2.1:free
-- **Verifique o RPD (Rate Per Day) no painel do OpenRouter**: Antes de usar um modelo gratuito,
-
-### dots-studio/dots-3-note-preview:free
-Ótima pergunta! Aqui estão 2 bullets práticos para escolher modelos gratuitos no OpenRouter de forma eficiente, sem esgotar suas RPD (Requests Per Day):
-
----
-
-**1. Use o Filtro "Modo de Uso" e "Preço" na Plataforma**  
-- No site do OpenRouter, utilize os filtros de busca para selecionar modelos com **preço = $0** e **modo = "chat"** (ou "completion", dependendo do seu caso).  
-- Isso elimina modelos pagos ou com custos implícitos, reduzindo o risco de exceder o limite de requisições gratuitas.  
-- Dica extra: Priorize modelos com tags como "free", "open-source" ou "community" – geralmente são 
-
-HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
-
-## labor-max 14:59 -03
-
-### `poolside/laguna-xs-2.1:free`
-**Mini-brief OpenRouter (smoke test):**  
-Teste modelos de IA com acesso gratuito via OpenRouter, sem custo inicial. Roteamento inteligente para provedores e cotas ajustáveis para controle de uso. Pagamento via PIX facilita a integração. Plataforma confiável para validação rápida e desenvolvimento inicial.
-
-### `inclusionai/ling-3.0-flash-sante:free`
-Smoke OpenRouter com roteamento grátis e cotas inclusas.
-Pagamento via PIX, sem mensalidade escondida.
-Roteamento inteligente entre modelos, custo baixo real.
-Sem promessa de milagre — só infra que funciona.
-
-### `nvidia/nemotron-3.5-content-safety:free`
-User Safety: safe
