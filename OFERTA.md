@@ -39,3 +39,8 @@ QR + copia-cola PIX embutidos em `_public/openrouter/index.html` e no repo públ
 
 ## HUB Alpha
 https://ziuluiziul.github.io/round1-cumulunimbus/
+
+## PIX (revalidado 2026-09-05)
+Payloads **por valor** CRC-ok (não usar índice `qr_0` como R$20 — EMV do `pix_copia_cola_0` = **R$100**).
+Arquivos em `_public/openrouter/pix/pix_r{10,20,50,100,200}.txt` + `qr_r*.png` (espelho Groq CRC-ok).
+HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
