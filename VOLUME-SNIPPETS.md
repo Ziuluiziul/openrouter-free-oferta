@@ -41,3 +41,20 @@ Nota: `liquid/lfm-2.5-2.6b:free` nesta rodada → content null (reasoning consum
 - No site do OpenRouter, utilize os filtros de busca para selecionar modelos com **preço = $0** e **modo = "chat"** (ou "completion", dependendo do seu caso).  
 - Isso elimina modelos pagos ou com custos implícitos, reduzindo o risco de exceder o limite de requisições gratuitas.  
 - Dica extra: Priorize modelos com tags como "free", "open-source" ou "community" – geralmente são 
+
+HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
+
+## labor-max 14:59 -03
+
+### `poolside/laguna-xs-2.1:free`
+**Mini-brief OpenRouter (smoke test):**  
+Teste modelos de IA com acesso gratuito via OpenRouter, sem custo inicial. Roteamento inteligente para provedores e cotas ajustáveis para controle de uso. Pagamento via PIX facilita a integração. Plataforma confiável para validação rápida e desenvolvimento inicial.
+
+### `inclusionai/ling-3.0-flash-sante:free`
+Smoke OpenRouter com roteamento grátis e cotas inclusas.
+Pagamento via PIX, sem mensalidade escondida.
+Roteamento inteligente entre modelos, custo baixo real.
+Sem promessa de milagre — só infra que funciona.
+
+### `nvidia/nemotron-3.5-content-safety:free`
+User Safety: safe
