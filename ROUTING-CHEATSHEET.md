@@ -1,15 +1,15 @@
 # OpenRouter :free — routing cheatsheet
 
-_Live 2026-09-05 20:51 -03 · 19 modelos `:free`_
+_Live 2026-09-05 22:47 -03 · 19 modelos `:free`_
 
 ## Rotação desta rodada
 
-- `cohere/north-mini-code:free` → HTTP 200 cost 0 · content null (reasoning engoliu max_tokens) · one-shot
-- `minimax/minimax-m3:free` → OK · cost 0 · copy vendável
+- `liquid/lfm-2.5-2.6b:free` → OK · cost 0 · copy vendável (1 chamada útil)
 
 ## Quando usar o quê (ângulo venda)
 
-- `minimax/minimax-m3:free` — geral/copy; OK nesta rodada.
+- `liquid/lfm-2.5-2.6b:free` — leve/geral; OK nesta rodada (copy curto).
+- `minimax/minimax-m3:free` / `minimax/minimax-m2.7:free` — geral/copy.
 - `poolside/laguna-s-2.1:free` / `poolside/laguna-xs-2.1:free` — coding agent; copy/demo estável.
 - `dots-studio/dots-3-note-preview:free` — notas/docs/copy curto; bom para demos de texto.
 - `nvidia/nemotron-3.5-lightning:free` — throughput agentic / tarefas especializadas.
