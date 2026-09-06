@@ -1,10 +1,15 @@
 # OpenRouter :free — volume snippets (Receita Alpha)
 
-_Atualizado 2026-09-05 20:51 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
+_Atualizado 2026-09-05 22:47 -03 · catálogo 19 `:free` · cost 0 · placar R$0_
 
 Landing: https://ziuluiziul.github.io/openrouter-free-oferta/ · HUB: https://ziuluiziul.github.io/round1-cumulunimbus/
 
 ## Demo copy (API live, max_tokens generoso, abort se cost>0)
+
+### `liquid/lfm-2.5-2.6b:free` (rodada 22:47)
+
+- Desbloqueie IA gratuita e instantânea com modelos OpenRouter, sem cartão.
+- Rotue automaticamente entre múltiplos modelos via uma única API OpenAI-compatible, perfeito para demos e MVPs.
 
 ### `minimax/minimax-m3:free` (rodada 20:48)
 
